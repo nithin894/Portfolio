@@ -1434,10 +1434,11 @@ blockquote {
   }
 
   #hero{
-    height: 22vh;
+    height: 30vh;
+    padding: 20x 0px;
   }
   #hero .hero-content{
-    height: 23vh;
+    height: 31vh;
   }
 
   /* About */
